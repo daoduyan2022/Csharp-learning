@@ -1,0 +1,3 @@
+F:\Vision Machine Learning\C# Learning\Basic_Learning\Basic_Csharp\Enum_Struct\obj\Debug\netcoreapp3.1\Enum_Struct.AssemblyInfoInputs.cache
+F:\Vision Machine Learning\C# Learning\Basic_Learning\Basic_Csharp\Enum_Struct\obj\Debug\netcoreapp3.1\Enum_Struct.AssemblyInfo.cs
+F:\Vision Machine Learning\C# Learning\Basic_Learning\Basic_Csharp\Enum_Struct\obj\Debug\netcoreapp3.1\Enum_Struct.csproj.CoreCompileInputs.cache
